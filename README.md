@@ -1,12 +1,12 @@
 # 👋 Hi, This is **Shafny Hadhy**
 ### 🚀 Software Engineering Undergraduate | Full-Stack Developer | Tech Enthusiast
 
-I’m an enthusiastic Software Engineering undergraduate at **SLIIT**, passionate about building clean, scalable, and user-focused digital experiences. I enjoy working with **Java**, **MERN**, **PHP**, and modern frontend technologies — crafting everything from websites to full-stack systems.
+I’m an enthusiastic Software Engineering undergraduate at **SLIIT**, passionate about building clean, scalable, and user-focused digital experiences. I enjoy working with **Java**, **MERN**, **PHP**, and modern frontend technologies - crafting everything from websites to full-stack systems.
 
 ---
 
 ## 🧩 About Me
-- 🎓 **BSc (Hons) in Information Technology** — Software Engineering (UG @ SLIIT)  
+- 🎓 **BSc (Hons) in Information Technology** - Software Engineering (UG @ SLIIT)  
 - 💼 Currently working on: **Personal Finance Tracker (Laravel)**  
 - 🌱 Learning: **DevOps**, **Cloud Deployment**, **System Design**  
 - 🎯 Goal: Become a strong **Full-Stack Engineer**  
