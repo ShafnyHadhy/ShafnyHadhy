@@ -31,7 +31,7 @@ I’m an enthusiastic Software Engineering undergraduate at **SLIIT**, passionat
 `MySQL` • `MongoDB`
 
 ### **Tools & Other**
-`Git` • `GitHub` • `Postman` • `Figma` • `Linux` • `XAMPP` • `Vercel` • `Netlify`
+`Git` • `GitHub` • `VsCode` • `Postman` • `Figma` • `XAMPP` • `Vercel` • `Netlify`
 
 ---
 
