@@ -27,10 +27,9 @@ const shafny = {
     location: "Sri Lanka 🇱🇰",
     education: "BSc (Hons) IT - Software Engineering @ SLIIT",
     currentFocus: "Full-Stack Development & System Design",
-    workingOn: "Personal Finance Tracker (Laravel)",
     learning: ["DevOps", "Cloud Deployment", "Microservices"],
     interests: ["Traveling", "Hiking", "Adventure", "Tech Innovation"],
-    goal: "Building impactful digital solutions 🚀",
+    goal: "Building impactful digital solutions...",
     funFact: "I turn coffee into code ☕️➡️💻"
 };
 ```
@@ -39,7 +38,7 @@ const shafny = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
