@@ -1,152 +1,117 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shafny%20Hadhy&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
+# Shafny Hadhy
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BDBF7&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;Software+Engineering+Student+%F0%9F%8E%93;Building+Scalable+Web+Solutions+%F0%9F%92%BB;MERN+%7C+Java+%7C+PHP+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
-  
-</div>
+**Associate Software Engineer · Full-Stack Developer · Sri Lanka**
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ShafnyHadhy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/ShafnyHadhy?style=for-the-badge&color=blue&logo=github)](https://github.com/ShafnyHadhy?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/ShafnyHadhy?style=for-the-badge&color=yellow&logo=github)](https://github.com/ShafnyHadhy)
-  
-</div>
+I build full-stack web applications and AI-powered features in production. Currently working as an Associate Software Engineer at IT Starter Pvt Ltd — promoted from an internship at the same company — where I ship features across production and staging environments daily.
+
+My day-to-day involves **Next.js, React (TypeScript), Laravel, and MySQL**, and I have hands-on experience building **AI pipelines using Claude, Mistral, and Gemini APIs** for OCR and automated data extraction in a live product. I enjoy learning by building real systems, not tutorials.
+
+📍 Sri Lanka &nbsp;·&nbsp; 🎓 BSc Software Engineering @ SLIIT (3rd Year, CGPA 3.6+) &nbsp;·&nbsp; 💼 Open to full-time roles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafnyhadhy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedshafny02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shafnyhadhy.vercel.app/)
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## What I Work With
 
-### About Me
+**Frontend**
+React.js · Next.js · TypeScript · Tailwind CSS · JavaScript (ES6+)
 
-```javascript
-const shafny = {
-    location: "Sri Lanka 🇱🇰",
-    education: "BSc (Hons) IT - Software Engineering @ SLIIT",
-    currentFocus: "Full-Stack Development & System Design",
-    learning: ["DevOps", "Cloud Deployment", "Microservices"],
-    interests: ["Traveling", "Hiking", "Adventure", "Tech Innovation"],
-    goal: "Building impactful digital solutions...",
-    funFact: "I turn coffee into code ☕️➡️💻"
-};
-```
+**Backend**
+Node.js · Express.js · NestJS · Laravel · REST API Design
 
-<br clear="right"/>
+**Databases**
+PostgreSQL · MySQL · MongoDB · Redis · Prisma ORM
 
----
+**AI & Automation**
+Claude API · Mistral API · Gemini API · Prompt Engineering · n8n Workflow Automation
 
-## Tech Arsenal
+**Infrastructure & Tools**
+Docker · Docker Compose · Git · GitHub · VS Code · Postman · Vercel · Render
 
-<div align="center">
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-</div>
+**Concepts**
+OOP · Data Structures & Algorithms · JWT Auth · Microservices · MVC Architecture · Agile · CI/CD
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-<div align="center">
+### [Job Board SaaS API](https://github.com/ShafnyHadhy/jobboard-api)
+`Node.js` `Express` `PostgreSQL` `Redis` `Docker` `Prisma` `JWT`
 
-| 🎯 Project | 💡 Description | 🛠️ Tech Stack |
-|-----------|---------------|---------------|
-| **🥥 CocoSmart** | Complete plantation management platform with AI chatbot, inventory, marketplace & workforce management | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-| **🏦 Online Banking System** | Secure banking platform with authentication, bill payments, admin dashboard & offer management | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **💳 Bill & Payment Reminder** | Web-based solution for bill reminders, payment tracking, categories & staff role management | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+A production-ready backend API built to master 8 core backend engineering concepts in a single real-world application.
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShafnyHadhy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3BDBF7&icon_color=3BDBF7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafnyHadhy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BDBF7"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShafnyHadhy&theme=tokyonight&hide_border=true&background=0D1117&stroke=3BDBF7&ring=3BDBF7&fire=FF6B6B&currStreakLabel=3BDBF7" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafnyHadhy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3BDBF7&line=3BDBF7&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShafnyHadhy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-  
-</div>
+- Multi-role REST API with JWT authentication and Google OAuth 2.0
+- PostgreSQL full-text search (tsvector/tsquery) with composite indexes replacing slow LIKE scans
+- Redis caching with cache-aside pattern, TTL-based invalidation, and production-safe key deletion
+- Route-specific rate limiting using Redis atomic increments
+- Structured JSON logging with unique request IDs for distributed request tracing
+- Containerised with Docker; schema managed via Prisma 7 ORM
 
 ---
 
-## 🌐 Let's Connect
+### [Booking Platform REST API](https://github.com/ShafnyHadhy/booking-platform-api)
+`NestJS` `TypeScript` `PostgreSQL` `Prisma` `JWT` `Docker`
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafnyhadhy)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shafnyhadhy.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedshafny02@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShafnyHadhy)
-  
-</div>
+A modular REST API for service and booking management built to explore NestJS architecture patterns.
 
----
-
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
+- Modular architecture with NestJS modules and dependency injection
+- JWT authentication with bcrypt password hashing and guard-protected routes
+- Relational data modelling with Prisma enforcing booking status transitions and referential integrity
+- Containerised PostgreSQL with Docker Compose; full API documented via Postman collection
 
 ---
 
-<div align="center">
-  
-  ### ✨ Thanks for stopping by!
-  
-  **"Building the future, one commit at a time"** 🚀
-  
-  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  
-</div>
+### [Care Bridge — Healthcare Microservices Platform](https://github.com/ShafnyHadhy/care-bridge)
+`Node.js` `Express` `React` `MongoDB` `Docker`
+
+A healthcare platform built with a microservices architecture for appointment and telemedicine services.
+
+- Independent microservices for appointment booking and telemedicine, each deployable separately
+- RESTful API communication between services
+- Containerised with Docker for consistent, reproducible deployments
+
+---
+
+### [CocoSmart — Plantation Management System](https://github.com/ShafnyHadhy/cocosmart)
+`Node.js` `Express` `React` `MongoDB`
+
+A full-stack platform for managing a real-world coconut plantation business.
+
+- Marketplace and finance modules with secure authentication and backend validation
+- RESTful API integration across frontend and backend services
+
+---
+
+### [iBank — Online Banking System](https://github.com/ShafnyHadhy/ibank)
+`Java` `JSP` `Servlets` `MySQL`
+
+A full-stack banking application built in Java covering authentication, account management, and transaction handling.
+
+- MVC architecture with OOP principles throughout
+- Relational database design with MySQL including data modelling and SQL optimisation
+
+---
+
+## Experience
+
+**Associate Software Engineer** · IT Starter Pvt Ltd · *May 2026 – Present*
+Building full-stack features and AI pipelines for a live product (Recall) across production and staging environments. Work includes Claude and Mistral API integrations for OCR and data extraction, admin panel development, and mobile-responsive UI using Next.js and React (TypeScript).
+
+**Intern Software Engineer** · IT Starter Pvt Ltd · *Oct 2025 – May 2026*
+Built a receipt scanning feature with the Gemini API, automated bank transaction syncing with n8n, and developed full-stack features using React, Laravel, and MySQL for finance and POS systems.
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShafnyHadhy&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafnyHadhy&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+*3rd year Software Engineering undergraduate at SLIIT · Available for full-time roles and internships*
