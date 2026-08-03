@@ -17,19 +17,19 @@ My day-to-day involves **Next.js, React (TypeScript), Laravel, and MySQL**, and 
 ## What I Work With
 
 **Frontend**
-- React.js · Next.js · TypeScript · Tailwind CSS · JavaScript (ES6+)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
 **Backend**
-- Node.js · Express.js · NestJS · Laravel · REST API Design
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-%23005571.svg?style=flat-square)
 
 **Databases**
-- PostgreSQL · MySQL · MongoDB · Redis · Prisma ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 
 **AI & Automation**
-- Claude API · Mistral API · Gemini API · Prompt Engineering · n8n Workflow Automation
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square) ![Mistral API](https://img.shields.io/badge/Mistral_API-F97316?style=flat-square) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=flat-square&logo=n8n&logoColor=white)
 
 **Infrastructure & Tools**
-- Docker · Docker Compose · Git · GitHub · VS Code · Postman · Vercel · Render
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
 
 **Concepts**
 - OOP · Data Structures & Algorithms · JWT Auth · Microservices · MVC Architecture · Agile · CI/CD
@@ -108,8 +108,8 @@ Built a receipt scanning feature with the Gemini API, automated bank transaction
 ## GitHub Stats
 
 <p align="left">
-  <img align="top" src="https://github-stats-extended.vercel.app/api?username=ShafnyHadhy&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShafnyHadhy&layout=compact&theme=default&hide_border=true" />
+  <img align="top" src="https://github-stats-extended.vercel.app/api?username=ShafnyHadhy&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" />
+  <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShafnyHadhy&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
