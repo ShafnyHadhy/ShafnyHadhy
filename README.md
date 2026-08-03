@@ -107,7 +107,7 @@ Built a receipt scanning feature with the Gemini API, automated bank transaction
 
 ## GitHub Stats
 
-<p align="left">
+<p align="center">
   <img height="160" src="https://github-stats-extended.vercel.app/api?username=ShafnyHadhy&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShafnyHadhy&layout=compact&theme=default&hide_border=true" />
 </p>
