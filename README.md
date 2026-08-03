@@ -17,22 +17,22 @@ My day-to-day involves **Next.js, React (TypeScript), Laravel, and MySQL**, and 
 ## What I Work With
 
 **Frontend**
-React.js · Next.js · TypeScript · Tailwind CSS · JavaScript (ES6+)
+- React.js · Next.js · TypeScript · Tailwind CSS · JavaScript (ES6+)
 
 **Backend**
-Node.js · Express.js · NestJS · Laravel · REST API Design
+- Node.js · Express.js · NestJS · Laravel · REST API Design
 
 **Databases**
-PostgreSQL · MySQL · MongoDB · Redis · Prisma ORM
+- PostgreSQL · MySQL · MongoDB · Redis · Prisma ORM
 
 **AI & Automation**
-Claude API · Mistral API · Gemini API · Prompt Engineering · n8n Workflow Automation
+- Claude API · Mistral API · Gemini API · Prompt Engineering · n8n Workflow Automation
 
 **Infrastructure & Tools**
-Docker · Docker Compose · Git · GitHub · VS Code · Postman · Vercel · Render
+- Docker · Docker Compose · Git · GitHub · VS Code · Postman · Vercel · Render
 
 **Concepts**
-OOP · Data Structures & Algorithms · JWT Auth · Microservices · MVC Architecture · Agile · CI/CD
+- OOP · Data Structures & Algorithms · JWT Auth · Microservices · MVC Architecture · Agile · CI/CD
 
 ---
 
