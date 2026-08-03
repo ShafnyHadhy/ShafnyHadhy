@@ -38,7 +38,7 @@ My day-to-day involves **Next.js, React (TypeScript), Laravel, and MySQL**, and 
 
 ## Projects
 
-### [Job Board SaaS API](https://github.com/ShafnyHadhy/jobboard-api)
+### 💼 [Job Board SaaS API](https://github.com/ShafnyHadhy/jobboard-api)
 `Node.js` `Express` `PostgreSQL` `Redis` `Docker` `Prisma` `JWT`
 
 A production-ready backend API built to master core backend engineering concepts in a single real-world application.
@@ -52,7 +52,7 @@ A production-ready backend API built to master core backend engineering concepts
 
 ---
 
-### [Booking Platform REST API](https://github.com/ShafnyHadhy/booking-platform-api)
+### 📅 [Booking Platform REST API](https://github.com/ShafnyHadhy/booking-platform-api)
 `NestJS` `TypeScript` `PostgreSQL` `Prisma` `JWT` `Docker`
 
 A modular REST API for service and booking management built to explore NestJS architecture patterns.
@@ -64,7 +64,7 @@ A modular REST API for service and booking management built to explore NestJS ar
 
 ---
 
-### [Care Bridge - Healthcare Microservices Platform](https://github.com/ShafnyHadhy/care-bridge)
+### 🏥 [Care Bridge - Healthcare Microservices Platform](https://github.com/ShafnyHadhy/care-bridge)
 `Node.js` `Express` `React` `MongoDB` `Docker`
 
 A healthcare platform built with a microservices architecture for appointment and telemedicine services.
@@ -75,7 +75,7 @@ A healthcare platform built with a microservices architecture for appointment an
 
 ---
 
-### [CocoSmart - Plantation Management System](https://github.com/ShafnyHadhy/cocosmart)
+### 🌱 [CocoSmart - Plantation Management System](https://github.com/ShafnyHadhy/cocosmart)
 `Node.js` `Express` `React` `MongoDB`
 
 A full-stack platform for managing a real-world coconut plantation business.
@@ -85,7 +85,7 @@ A full-stack platform for managing a real-world coconut plantation business.
 
 ---
 
-### [iBank - Online Banking System](https://github.com/ShafnyHadhy/ibank)
+### 🏦 [iBank - Online Banking System](https://github.com/ShafnyHadhy/ibank)
 `Java` `JSP` `Servlets` `MySQL`
 
 A full-stack banking application built in Java covering authentication, account management, and transaction handling.
