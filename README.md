@@ -114,4 +114,4 @@ Built a receipt scanning feature with the Gemini API, automated bank transaction
 
 ---
 
-*3rd year Software Engineering undergraduate at SLIIT · Available for full-time roles and internships*
+*4th year Software Engineering undergraduate at SLIIT · Available for full-time roles and internships*
