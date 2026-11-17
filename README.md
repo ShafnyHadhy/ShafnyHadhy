@@ -4,9 +4,9 @@
 
 I build full-stack web applications and AI-powered features in production. Currently working as an Associate Software Engineer at IT Starter Pvt Ltd - where I ship features across production and staging environments daily.
 
-My day-to-day involves **Next.js, React (TypeScript), Laravel, and MySQL**, and I have hands-on experience building **AI pipelines using Claude, Mistral, and Gemini APIs** for OCR and automated data extraction in a live product. I enjoy learning by building real systems, not tutorials.
+My day-to-day involves **Next.js, React (TypeScript),Node.js Laravel and MySQL**, and I have hands-on experience building **AI pipelines using Claude, Mistral, and Gemini APIs** for OCR and automated data extraction in a live product. I enjoy learning by building real systems, not tutorials.
 
-📍 Sri Lanka &nbsp;·&nbsp; 🎓 BSc Software Engineering @ SLIIT (3rd Year) &nbsp;·&nbsp; 💼 Open to full-time roles
+📍 Sri Lanka &nbsp;·&nbsp; 🎓 BSc Software Engineering @ SLIIT (4th Year) &nbsp;·&nbsp; 💼 Open to full-time roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafnyhadhy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedshafny02@gmail.com)
