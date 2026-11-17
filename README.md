@@ -97,10 +97,10 @@ A full-stack banking application built in Java covering authentication, account 
 
 ## Experience
 
-**Associate Software Engineer** · IT Starter Pvt Ltd · *May 2026 – Present*
+**Associate Software Engineer** · IT Starter Pvt Ltd · *Mar 2026 – Present*
 Building full-stack features and AI pipelines for a live product across production and staging environments. Work includes Claude and Mistral API integrations for OCR and data extraction, admin panel development, and mobile-responsive UI using Next.js and React (TypeScript).
 
-**Intern Software Engineer** · IT Starter Pvt Ltd · *Oct 2025 – May 2026*
+**Intern Software Engineer** · IT Starter Pvt Ltd · *Sep 2025 – Feb 2026*
 Built a receipt scanning feature with the Gemini API, automated bank transaction syncing with n8n, and developed full-stack features using React, Laravel, and MySQL for finance and POS systems.
 
 ---
